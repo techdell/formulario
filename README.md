@@ -11,8 +11,8 @@ area de login
                 background-color: #EEE;
             }
             form {
-                width: 180px;
-                height: 160px;
+                width: 300px;
+                height: 300px;
                 background-color: #DDD;
                 margin: auto;
                 padding: 20px;
@@ -23,8 +23,8 @@ area de login
                 font-size: 13px;
             }
             .topo{
-                width: 200px;
-                height: 100px;
+                width: 400px;
+                height: 200px;
                 margin: auto;
                 padding: 20px;
                 margin-top: 20px;
