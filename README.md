@@ -25,7 +25,7 @@
             }
             .topo{
                 width: 400px;
-                height: 200px;
+                height: 250px;
                 margin: auto;
                 padding: 20px;
                 margin-top: 20px;
