@@ -51,10 +51,10 @@
             </div>
             <form method="POST">
                 Login:<br>
-                <input type="text" name="usuario" autocomplete="off" required size="21" autofocus placeholder="Usuario"/><br><br>
+                <input type="text" name="usuario" autocomplete="off" width="260px" required autofocus placeholder="Usuario"/><br><br>
                 Senha:<br/>
-                <input type="password" name="senha" autocomplete="off" required size="21" maxlength="8" size="20" placeholder="Senha"/><br><br>
-                <input type="submit" name="enviar" class="enviar"/>
+                <input type="password" name="senha" autocomplete="off" required maxlength="8" width="260px" placeholder="Senha"/><br><br>
+                <input type="submit" name="enviar" size="21" class="enviar"/>
             </form>
         </div>
     </body>
