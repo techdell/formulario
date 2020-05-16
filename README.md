@@ -29,7 +29,7 @@
             }
         </style>
     </head>
-    <body background="https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_960_720.jpg">
+    <body background="https://cdn.pixabay.com/photo/2017/03/25/17/55/color-2174045_960_720.png">
         <div>
             <div class="topo">
                 <h1>Área de Login</h1>
