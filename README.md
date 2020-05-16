@@ -6,8 +6,8 @@
                 height: 597px;
             }
             form {
-                width: 230px;
-                height: 240px;
+                width: 400px;
+                height: 320px;
                 background-color: #DDD;
                 margin: auto;
                 padding: 20px;
