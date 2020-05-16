@@ -16,6 +16,8 @@
             input {
                 padding: 5px;
                 font-size: 13px;
+                border: 1px solid #111;
+                border-radius: 10px;
             }
             .topo{
                 width: 400px;
