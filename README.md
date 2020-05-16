@@ -3,7 +3,7 @@
         <style>
             body {
                 background-size:1370px;
-                height: 300px;
+                height: 200px;
             }
             form {
                 width: 300px;
