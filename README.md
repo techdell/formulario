@@ -27,6 +27,14 @@
                 margin-top: 20px;
                 text-align: center;
             }
+            h1 {
+                font-weight: bold;
+                color: #FFFFFF;
+            }
+            h3 {
+                font-weight: bold;
+                color: #FFFFFF;
+            }
         </style>
     </head>
     <body background="https://cdn.pixabay.com/photo/2017/03/25/17/55/color-2174045_960_720.png">
