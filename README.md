@@ -3,7 +3,7 @@
         <style>
             body {
                 background-size:1370px;
-                height: 900px;
+                height: 597px;
             }
             form {
                 width: 230px;
@@ -12,16 +12,20 @@
                 margin: auto;
                 padding: 20px;
                 margin-top: 20px;
+                box-shadow: rgba(24, 23, 23, 0.678) 7px 7px 10px;
+                font-size: 20px;
+                border-radius: 10px;
             }
             input {
-                padding: 5px;
-                font-size: 13px;
+                padding: 8px;
+                font-size: 15px;
                 border: 1px solid #111;
                 border-radius: 10px;
+                box-shadow: rgba(24, 23, 23, 0.678) 7px 7px 7px;
             }
             .topo{
                 width: 400px;
-                height: 200px;
+                height: 100px;
                 margin: auto;
                 padding: 20px;
                 margin-top: 20px;
@@ -30,10 +34,12 @@
             h1 {
                 font-weight: bold;
                 color: #FFFFFF;
+                text-shadow: rgba(24, 23, 23, 0.678) 2px 2px 1px;
             }
             h3 {
                 font-weight: bold;
                 color: #FFFFFF;
+                text-shadow: rgba(24, 23, 23, 0.678) 2px 2px 1px;
             }
         </style>
     </head>
