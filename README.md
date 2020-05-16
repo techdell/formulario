@@ -35,9 +35,9 @@
             </div>
             <form method="POST">
                 Login:<br>
-                <input type="text" name="usuario" autofocus placeholder="Usuario"/><br><br>
+                <input type="text" name="usuario" size="20" autofocus placeholder="Usuario"/><br><br>
                 Senha:<br/>
-                <input type="password" name="senha" placeholder="Senha"/><br><br>
+                <input type="password" name="senha" size="20" placeholder="Senha"/><br><br>
                 <input type="submit" name="enviar" class="enviar"/>
             </form>
         </div>
