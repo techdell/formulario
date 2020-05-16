@@ -15,6 +15,10 @@
                 box-shadow: rgba(24, 23, 23, 0.678) 7px 7px 10px;
                 font-size: 20px;
                 border-radius: 10px;
+                transition: all 1s linear;
+            }
+            form:hover {
+                width: 295px;
             }
             input {
                 padding: 8px;
