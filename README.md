@@ -1,7 +1,5 @@
 <html>
     <head>
-        <meta charset="UTF-8"/>
-        <title>Area de Login</title>
         <style>
             body {
                 margin: 0px;
@@ -9,7 +7,7 @@
             }
             form {
                 width: 200px;
-                height: 200px;
+                height: 220px;
                 background-color: #DDD;
                 margin: auto;
                 padding: 20px;
