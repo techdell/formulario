@@ -2,8 +2,8 @@
     <head>
         <style>
             body {
-                margin: 0px;
-                background-color: #EEE;
+                background-size:1370px;
+                height: 900px;
             }
             form {
                 width: 230px;
@@ -29,7 +29,7 @@
             }
         </style>
     </head>
-    <body>
+    <body background="https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_960_720.jpg">
         <div>
             <div class="topo">
                 <h1>Área de Login</h1>
