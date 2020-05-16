@@ -51,9 +51,9 @@
             </div>
             <form method="POST">
                 Login:<br>
-                <input type="text" name="usuario" autocomplete="off" width="260px" required autofocus placeholder="Usuario"/><br><br>
+                <input type="text" name="usuario" autocomplete="off" width="300px" required autofocus placeholder="Usuario"/><br><br>
                 Senha:<br/>
-                <input type="password" name="senha" autocomplete="off" required maxlength="8" width="260px" placeholder="Senha"/><br><br>
+                <input type="password" name="senha" autocomplete="off" required maxlength="8" width="300px" placeholder="Senha"/><br><br>
                 <input type="submit" name="enviar" size="21" class="enviar"/>
             </form>
         </div>
