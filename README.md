@@ -7,7 +7,7 @@
             }
             form {
                 width: 230px;
-                height: 240px;
+                height: 300px;
                 background-color: #DDD;
                 margin: auto;
                 padding: 20px;
@@ -25,7 +25,7 @@
             }
             .topo{
                 width: 400px;
-                height: 250px;
+                height: 150px;
                 margin: auto;
                 padding: 20px;
                 margin-top: 20px;
